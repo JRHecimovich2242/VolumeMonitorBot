@@ -161,6 +161,8 @@ cython_debug/
 
 #Added
 config.py
+funnylines.txt
+realquotes.txt
 
 # Logs or volume data
 volume_count.json
